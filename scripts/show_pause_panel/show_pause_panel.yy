@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"show_pause_panel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"show_pause_panel",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
