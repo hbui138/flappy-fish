@@ -37,6 +37,9 @@
     "name":"pipe_bottom",
     "path":"sprites/pipe_bottom/pipe_bottom.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"pipe_bottom",
+    "path":"sprites/pipe_bottom/pipe_bottom.yy",
+  },
   "visible":true,
 }
