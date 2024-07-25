@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-state = STATE.FALL;
+if (global.game_start = true) {
+	state = STATE.FALL;
+}
