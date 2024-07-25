@@ -13,7 +13,7 @@ function score_handler(){
 	var bird_x = x;
 
 	// Loop through all pipe objects
-	with (obj_pipe1) {
+	with (obj_pillar1) {
 	    if (x == bird_x && !scored) { 
 	        global.score += 1; // Increase score by 1
 	        scored = true; 

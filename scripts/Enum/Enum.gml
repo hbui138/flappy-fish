@@ -5,5 +5,6 @@ enum STATE {
 	FLY,
 	FALL,
 	IDLE,
-	STOP
+	STOP,
+	DEAD_FALL
 }

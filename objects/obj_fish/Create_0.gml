@@ -8,3 +8,4 @@ delta_angle = 0;
 
 global.game_start = false;
 global.game_over = false;
+global.just_hit_pipe = false;

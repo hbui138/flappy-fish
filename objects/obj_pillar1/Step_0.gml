@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (x = -150) {
-	instance_destroy(obj_pipe1)
+	instance_destroy(obj_pillar1)
 }
 
 if (global.game_over != true) {

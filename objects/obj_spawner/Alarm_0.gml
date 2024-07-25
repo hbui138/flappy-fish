@@ -3,10 +3,10 @@
 
 if (global.game_start = true) {
 	var center = random_range(300, 500)
-	var gap = 100;
+	var gap = 50;
 
-	instance_create_layer(500, center + gap, "Instances", obj_pipe1);
-	instance_create_layer(500, center - gap, "Instances", obj_pipe2);
+	instance_create_layer(500, center + gap, "Instances", obj_pillar1);
+	instance_create_layer(500, center - gap, "Instances", obj_pillar2);
 	
 	alarm_set(0, 180);
 }

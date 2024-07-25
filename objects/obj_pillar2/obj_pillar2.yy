@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_pipe1",
+  "%Name":"obj_pillar2",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_pipe1",
+  "name":"obj_pillar2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -34,12 +34,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"pipe_bottom",
-    "path":"sprites/pipe_bottom/pipe_bottom.yy",
+    "name":"pillar_top",
+    "path":"sprites/pillar_top/pillar_top.yy",
   },
-  "spriteMaskId":{
-    "name":"pipe_bottom",
-    "path":"sprites/pipe_bottom/pipe_bottom.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
