@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // Add the flag to check if the bird hit the pipe
-show_debug_message(state)
+
 switch(state) {
 	case STATE.IDLE:
 		image_angle = 0;

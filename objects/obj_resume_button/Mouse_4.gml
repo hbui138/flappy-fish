@@ -4,4 +4,4 @@
 with (obj_pause_panel) {
         instance_destroy();
 }
-global.game_paused = false
+global.click_continue = true;

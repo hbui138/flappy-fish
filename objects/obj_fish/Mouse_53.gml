@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(state != STATE.STOP){
-	audio_play_sound(snd_water_splash, 0, false);
+if (global.game_start = false) {
+	global.game_start = true
+}
+
+if (is_dead != true) {
+	alarm[0] = 1;
 }

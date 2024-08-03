@@ -10,3 +10,5 @@ if (global.game_paused) {
     }
 	global.game_paused = false
 }
+
+global.click_paused = true;
