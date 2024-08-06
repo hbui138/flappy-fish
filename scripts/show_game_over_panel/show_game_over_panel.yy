@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"show_game_over_panel",
   "isCompatibility":false,
   "isDnD":false,

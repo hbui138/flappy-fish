@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"show_pause_panel",
   "isCompatibility":false,
   "isDnD":false,

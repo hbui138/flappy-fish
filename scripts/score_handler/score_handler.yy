@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"score_handler",
   "isCompatibility":false,
   "isDnD":false,
